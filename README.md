@@ -1,7 +1,7 @@
 Hi, my name is Valentin Dutra
 ======================================================================================================================================
 
-AI Software Engineer.
+AI Engineer.
 ----------------------------------------
 
 I’m a software engineer specialized in artificial intelligence, passionate about building AI agents, optimizing models through fine-tuning, and designing scalable architectures on AWS.code
