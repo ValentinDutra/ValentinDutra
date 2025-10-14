@@ -1,7 +1,7 @@
 Hi, my name is Valentin Dutra
 ======================================================================================================================================
 
-Software Engineer.
+AI Engineer.
 ----------------------------------------
 
 I’m a software engineer passionate about tackling complex problems, designing scalable solutions, and delivering high-quality software that makes an impact.
