@@ -1,14 +1,14 @@
 Hi, my name is Valentin Dutra
 ======================================================================================================================================
 
-Semi-Senior Software Engineer.
+AI Engineer.
 ----------------------------------------
 
-I’m a software engineer passionate about tackling complex problems, designing scalable solutions, and delivering high-quality software that makes an impact.
+I'm an AI engineer focused on building scalable, production-ready AI systems — from model development to deployment — solving complex problems with measurable impact.
 
 * 🌍  I'm based in Uruguay
 * ✉️  You can contact me at [valentindutra99@gmail.com](mailto:valentindutra99@gmail.com)
-* 🚀  I'm currently working on [Code4Business](https://www.code4business.com/)
+* 🚀  I'm currently working on [Ingenious Agency](https://ingenious.agency/)
 
 ### Socials
 ----------------------------------------
